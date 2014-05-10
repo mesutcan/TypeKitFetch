@@ -27,6 +27,9 @@ ruby command_line_interface.rb --token=e79507d8bb6243f2b991fc67ea53a2bdbf96f183
 This will return: 
 
 user has 1 kits
+
 kit 1 is {"id"=>"ibp7hwm", "link"=>"/api/v1/json/kits/ibp7hwm"}
+
 kit 1 id is: ibp7hwm
+
 kit 1 link is: /api/v1/json/kits/ibp7hwm
