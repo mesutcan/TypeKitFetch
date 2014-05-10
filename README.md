@@ -19,7 +19,7 @@ CommandLineInterface class is a command line interface to fetch user generated t
 TypekitApi class is used make requests and fetch the information about authorized kits using Typekit API.
 Please refer to the detailed inline comments to understand how they work.
 
-To run the program, all you need to do have is your token in hard.
+To run the program, all you need to do have is your token.
 
 Ex:
 ruby command_line_interface.rb --token=e79507d8bb6243f2b991fc67ea53a2bdbf96f183 
